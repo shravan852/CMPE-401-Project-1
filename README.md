@@ -45,8 +45,8 @@ mpe401-project1/
 ├── results.csv                      # YOLOv11m epoch-by-epoch training log
 ├── part3_experiment.csv             # Part III — Model size experiment results
 └── part5_comparison.csv             # Part V — Multi-version comparison results
+```
 
----
 
 ## Part I — Baseline Results (YOLOv11n)
 
