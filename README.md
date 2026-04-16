@@ -67,7 +67,7 @@ The YOLOv11n baseline achieves a mAP@50 of 0.3027 on VisDrone. This is a reasona
 
 ## Part II — Loss Curve Analysis
 
-![Baseline Loss Curves](results/baseline_loss_curves.png)
+![Baseline Loss Curves](baseline_loss_curves.png)
 
 **Fitting Analysis (last 5 epochs average):**
 - Train Box Loss: 1.4153
