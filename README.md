@@ -3,6 +3,7 @@
 **Design, Optimization, and Comparative Evaluation of Modern YOLO Models for Real-World Object Detection**
 
 ---
+Note: Training outputs are not stored in the notebook cells as models were trained on Google Colab A100 with long-running sessions. All results, metrics, and visualizations are saved in the results/ folder and documented in this README.
 
 ## Overview
 
@@ -10,11 +11,11 @@ This project builds a complete object detection pipeline using YOLOv11 on the Vi
 
 | Part | Description | Status |
 |------|-------------|--------|
-| I    | Baseline Model — YOLOv11n | ✅ Complete |
-| II   | Loss Curve & Fitting Analysis | ✅ Complete |
-| III  | Structured Experiment — Model Size (n / s / m) | ✅ Complete |
-| IV   | Iterative Improvement — Image Resolution (640 → 1280) | ✅ Complete |
-| V    | Multi-Version Comparison — v11 vs v10 vs v9 vs v8 vs v5 | ✅ Complete |
+| I    | Baseline Model — YOLOv11n |   Complete|
+| II   | Loss Curve & Fitting Analysis |  Complete |
+| III  | Structured Experiment — Model Size (n / s / m) |  Complete |
+| IV   | Iterative Improvement — Image Resolution (640 → 1280) |  Complete |
+| V    | Multi-Version Comparison — v11 vs v10 vs v9 vs v8 vs v5 |  Complete |
 
 ---
 
