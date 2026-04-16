@@ -32,16 +32,19 @@ This project builds a complete object detection pipeline using YOLOv11 on the Vi
 ## Repository Structure
 
 ```
-cmpe401-project1/
-├── CMPE401_Project1_YOLO.ipynb    # Main notebook — all 5 parts
-├── results/
-│   ├── baseline_loss_curves.png   # Part II loss curves
-│   ├── part3_experiment.csv       # Part III model size results
-│   ├── part4_improvement.csv      # Part IV resolution improvement
-│   ├── part5_comparison.csv       # Part V multi-version comparison
-│   └── part5_comparison.png       # Part V bar chart
-└── README.md
-```
+mpe401-project1/
+├── CMPE401_Project1.ipynb           # Main notebook — Parts I, II, III, IV
+├── other_training_models.ipynb      # Part V — YOLOv8, v9, v10, v5 comparison runs
+├── train_yolov11m.ipynb             # YOLOv11m retraining with saved weights
+├── test_challenge_inference.ipynb   # Test-challenge set inference (Part V bonus)
+├── README.md
+├── baseline_loss_curves.png         # Part II — Train/val loss curves
+├── confusion_matrix.png             # YOLOv11m confusion matrix
+├── confusion_matrix_normalized.png  # YOLOv11m normalized confusion matrix
+├── results.png                      # YOLOv11m training metrics overview
+├── results.csv                      # YOLOv11m epoch-by-epoch training log
+├── part3_experiment.csv             # Part III — Model size experiment results
+└── part5_comparison.csv             # Part V — Multi-version comparison results
 
 ---
 
