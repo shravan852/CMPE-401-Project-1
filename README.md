@@ -3,7 +3,7 @@
 **Design, Optimization, and Comparative Evaluation of Modern YOLO Models for Real-World Object Detection**
 
 ---
-Note: Training outputs are not stored in the notebook cells as models were trained on Google Colab A100 with long-running sessions. All results, metrics, and visualizations are saved in the results/ folder and documented in this README.
+**Note:** The main notebook (`CMPE401_Project1_YOLO.ipynb`) may not render directly on GitHub due to file size (training outputs from 6 model runs). To view the full notebook with all outputs, open it in [nbviewer](https://nbviewer.org/) or download and open in Jupyter/Colab.
 
 ## Overview
 
