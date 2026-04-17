@@ -32,7 +32,7 @@ This project builds a complete object detection pipeline using YOLOv11 on the Vi
 ## Repository Structure
 
 ```
-mpe401-project1/
+cmpe401-project1/
 ├── CMPE401_Project1.ipynb           # Main notebook — Parts I, II, III, IV
 ├── other_training_models.ipynb      # Part V — YOLOv8, v9, v10, v5 comparison runs
 ├── train_yolov11m.ipynb             # YOLOv11m retraining with saved weights
