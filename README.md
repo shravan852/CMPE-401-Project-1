@@ -128,6 +128,7 @@ The YOLOv11n baseline achieves a mAP@50 of 0.3027 on VisDrone. This is a reasona
 ---
 
 ## Part V — Multi-Version YOLO Comparison
+![part5_comparison](part5_comparison.png)
 
 All models trained with identical settings: epochs=50, imgsz=640, batch=16, lr=0.01, optimizer=SGD
 
