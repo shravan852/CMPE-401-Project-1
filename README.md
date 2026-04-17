@@ -41,10 +41,12 @@ mpe401-project1/
 ├── baseline_loss_curves.png         # Part II — Train/val loss curves
 ├── confusion_matrix.png             # YOLOv11m confusion matrix
 ├── confusion_matrix_normalized.png  # YOLOv11m normalized confusion matrix
+└── part5_comparison.png             # Part V — Multi-version comparison results
 ├── results.png                      # YOLOv11m training metrics overview
 ├── results.csv                      # YOLOv11m epoch-by-epoch training log
 ├── part3_experiment.csv             # Part III — Model size experiment results
 └── part5_comparison.csv             # Part V — Multi-version comparison results
+
 ```
 
 
